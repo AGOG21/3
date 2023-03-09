@@ -1,0 +1,15 @@
+H1{
+    text-align: center;
+    color: rgb(150, 120, 255);
+    background-color: rgba(0, 0, 0, 0.444);
+}
+
+body{
+    background-image: url(https://fondosmil.com/fondo/38469.jpg);
+    background-size: cover;
+}
+
+hr{
+    border-color: rgb(150, 120, 255);
+    border-width: 2px;
+}
